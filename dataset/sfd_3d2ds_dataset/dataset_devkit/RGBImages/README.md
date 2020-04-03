@@ -1,0 +1,1 @@
+<p>Contains RGB images as per the list in train.txt or val.txt</p>
